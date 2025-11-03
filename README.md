@@ -151,7 +151,7 @@ To brand the login page and console with the Nafath logo:
    <WSO2_IS_HOME>/repository/deployment/server/webapps/console/resources/connections/assets/images/logos/
    ```
 
-2. Optionally, update the logo path via API:
+2. Update the logo path via API:
 
    ```bash
    curl -k --location --request PATCH \
